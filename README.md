@@ -36,7 +36,7 @@ install with curl
 # Install Node.js
 
 ```
-$ nvm install 12.10
+$ nvm install 16.17
 ```
 or
 ```
