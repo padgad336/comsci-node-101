@@ -1,0 +1,11 @@
+{
+  "name": "node-101",
+  "version": "1.0.0",
+  "description": "nodeJS beginning",
+  "main": "index.js",
+  "author": "padgad",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-nss": "^1.2.0"
+  }
+}
