@@ -43,22 +43,7 @@ or
 $ nvm install stable
 ```
 
-# Config
+## Day 2
+ ### postman
 
-### Eslint
-
-### Install eslint config to project
-
-```
-$ yarn add --dev eslint-config-nss
-```
-
-### Create `.eslintrc` and add config
-
-```
-{
-  "extends": "nss/node"
-}
-```
-
-### Enable `eslint.autoFixOnSave` in VSCode setting
+ > for [Windows/linux/mac](https://git-scm.com/downloads)
