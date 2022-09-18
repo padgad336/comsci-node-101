@@ -46,4 +46,4 @@ $ nvm install stable
 ## Day 2
  ### postman
 
- > for [Windows/linux/mac](https://git-scm.com/downloads)
+ > for [Windows/linux/mac](https://www.postman.com/downloads/)
